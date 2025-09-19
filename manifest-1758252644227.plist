@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://eueu.littlera.in/b28f5f22-96c1-49de-b9c9-fb08e2398e5e/0.ipa</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>https://i.postimg.cc/QNpWRSWX/IMG-20250913-195708.jpg</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.rbl.deltavn</string>
+        <key>bundle-version</key>
+        <string>2.690.721</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Delta VN</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
